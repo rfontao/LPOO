@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de88adba-863e-4a95-baf2-358770f774ee" name="Default Changelist" comment="" />
+    <list default="true" id="de88adba-863e-4a95-baf2-358770f774ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../operations" beforeDir="false" afterPath="$PROJECT_DIR$/../operations" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz2019/quiz.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz2019/quiz.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YtmkiZI8XKY21cG2nJg8sOCsnI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quiz2019" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
@@ -103,6 +111,10 @@
       <screen x="0" y="0" width="1600" height="854" />
     </state>
     <state x="533" y="177" width="528" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.854@0.0.1600.854" timestamp="1583773916952" />
+    <state x="583" y="186" width="428" height="484" key="FileChooserDialogImpl" timestamp="1583861027932">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state x="583" y="186" width="428" height="484" key="FileChooserDialogImpl/0.0.1600.854@0.0.1600.854" timestamp="1583861027932" />
     <state width="1554" height="213" key="GridCell.Tab.0.bottom" timestamp="1583851529498">
       <screen x="0" y="0" width="1600" height="854" />
     </state>

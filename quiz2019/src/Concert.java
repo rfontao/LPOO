@@ -8,6 +8,7 @@ public class Concert {
     String country;
     String date;
     List<Act> acts;
+    static private int current_ticket = 0;
 
     public Concert(String city, String country, String date){
         this.city = city;
@@ -44,9 +45,16 @@ public class Concert {
     }
 
     public boolean participates(Artist a){
-        for(Act act :acts){
-            if()
+        /*
+        for(Act act : acts){
+            if(act.)
         }
+        */
+        return false;
+    }
+
+    public int getCurrent_ticket(){
+        return ++current_ticket;
     }
 
     @Override

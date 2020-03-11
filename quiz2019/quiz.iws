@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b435420-c662-432d-9308-eb90bd7ac2cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.attach_pid5802" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Act.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Band.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Concert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InvalidTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numbers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../operations" beforeDir="false" afterPath="$PROJECT_DIR$/../operations" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz.iws" beforeDir="false" afterPath="$PROJECT_DIR$/quiz.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +33,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="20" />
-    <option name="width" value="1920" />
-    <option name="height" value="1060" />
   </component>
   <component name="ProjectId" id="1YwSROU9jEEyRvU3AzUG9v58oDB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -190,21 +183,25 @@
       <screen x="0" y="0" width="1600" height="854" />
     </state>
     <state x="380" y="86" width="828" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1600.854@0.0.1600.854" timestamp="1583852217008" />
-    <state width="1554" height="212" key="GridCell.Tab.0.bottom" timestamp="1583855739557">
+    <state x="583" y="186" width="428" height="484" key="FileChooserDialogImpl" timestamp="1583860924105">
       <screen x="0" y="0" width="1600" height="854" />
     </state>
-    <state width="1554" height="212" key="GridCell.Tab.0.bottom/0.0.1600.854@0.0.1600.854" timestamp="1583855739557" />
-    <state width="1554" height="212" key="GridCell.Tab.0.center" timestamp="1583855739553">
+    <state x="583" y="186" width="428" height="484" key="FileChooserDialogImpl/0.0.1600.854@0.0.1600.854" timestamp="1583860924105" />
+    <state width="1554" height="212" key="GridCell.Tab.0.bottom" timestamp="1583916235552">
       <screen x="0" y="0" width="1600" height="854" />
     </state>
-    <state width="1554" height="212" key="GridCell.Tab.0.center/0.0.1600.854@0.0.1600.854" timestamp="1583855739553" />
-    <state width="1554" height="212" key="GridCell.Tab.0.left" timestamp="1583855739551">
+    <state width="1554" height="212" key="GridCell.Tab.0.bottom/0.0.1600.854@0.0.1600.854" timestamp="1583916235552" />
+    <state width="1554" height="212" key="GridCell.Tab.0.center" timestamp="1583916235548">
       <screen x="0" y="0" width="1600" height="854" />
     </state>
-    <state width="1554" height="212" key="GridCell.Tab.0.left/0.0.1600.854@0.0.1600.854" timestamp="1583855739551" />
-    <state width="1554" height="212" key="GridCell.Tab.0.right" timestamp="1583855739555">
+    <state width="1554" height="212" key="GridCell.Tab.0.center/0.0.1600.854@0.0.1600.854" timestamp="1583916235548" />
+    <state width="1554" height="212" key="GridCell.Tab.0.left" timestamp="1583916235547">
       <screen x="0" y="0" width="1600" height="854" />
     </state>
-    <state width="1554" height="212" key="GridCell.Tab.0.right/0.0.1600.854@0.0.1600.854" timestamp="1583855739555" />
+    <state width="1554" height="212" key="GridCell.Tab.0.left/0.0.1600.854@0.0.1600.854" timestamp="1583916235547" />
+    <state width="1554" height="212" key="GridCell.Tab.0.right" timestamp="1583916235551">
+      <screen x="0" y="0" width="1600" height="854" />
+    </state>
+    <state width="1554" height="212" key="GridCell.Tab.0.right/0.0.1600.854@0.0.1600.854" timestamp="1583916235551" />
   </component>
 </project>
